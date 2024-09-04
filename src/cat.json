@@ -1,0 +1,73 @@
+[
+    {
+        "name": "อเมริกัน ช็อตแฮร์ (American Shorthair)",
+        "habbit": "เป็นแมวเลี้ยงง่าย หน้าตาน่าเอ็นดู นิสัยร่าเริง ช่างสงสัย ชอบเล่น ที่ตัวมีลวดลายเด่นสะดุดตา",
+        "image": "https://www.ktc.co.th/pub/media/Article/06/ktc-American_Shorthair.webp"
+    },
+
+    {
+        "name": "อเมริกัน เคิร์ล (American Curl)",
+        "habbit": "เป็นแมวที่ค่อนข้างมีมาด ขี้อ้อน ชอบเล่นกับคนและยังชอบปีนป่าย เสียงเบา ไม่ค่อยร้อง เลี้ยงง่าย",
+        "image": "https://www.ktc.co.th/pub/media/Article/06/ktc-American_Curl.webp"
+    },
+    
+    {
+        "name": "สก็อตติช โฟลด์ (Scottish Fold)",
+        "habbit": "เป็นแมวพันธุ์ต่างประเทศที่ไม่ค่อยส่งเสียง ชอบทำกิจกรรมปานกลาง ไม่ถึงกับแอคทีฟมาก ชอบเล่นกับเจ้าของ",
+        "image": "https://www.ktc.co.th/pub/media/Article/06/ktc-Scottish_Fold.webp"
+    },
+
+    {
+        "name": "เปอร์เซีย (Persian)",
+        "habbit": "เป็นแมวที่อ่อนโยน เข้ากับคนง่าย ร่าเริงซุกซน ชอบปีนป่าย ฉลาดเฉลียวและมีไหวพริบ",
+        "image": "https://www.ktc.co.th/pub/media/Article/06/ktc-Persian.webp"
+    },
+
+    {
+        "name": "เอ็กโซติก (Exotic)",
+        "habbit": "แมวเอ็กโซติกมีนิสัยดี ไม่ค่อยหงุดหงิด และมีความอดทนสูง อ่อนโยน ไม่ขี้รำคาญ จึงเข้ากับเด็กๆ ได้ดี",
+        "image": "https://www.ktc.co.th/pub/media/Article/06/ktc-Exotic.webp"
+    },
+
+    {
+        "name": "เมนคูน (Main Coon)",
+        "habbit": "มีนิสัยขี้อ้อน ขี้เล่น ร่าเริง",
+        "image": "https://www.ktc.co.th/pub/media/Article/06/ktc-Main_Coon.webp"
+    },
+
+    {
+        "name": "เบงกอล (Bengal)",
+        "habbit": "นิสัยไม่ดุร้าย มีความฉลาด คล่องแคล่ว วิ่งไวมาก พลังงานสูงต้องเล่นด้วยบ่อยๆ มีนิสัยซุกซน ชอบไล่จับและปีนป่ายที่สูง ที่สำคัญคือชอบเล่นน้ำ",
+        "image": "https://www.ktc.co.th/pub/media/Article/06/ktc-Bengal.webp"
+    },
+
+    {
+        "name": "มันช์กิ้น (Munchkin)",
+        "habbit": "นิสัยก็ขี้อ้อนสุดๆ ชอบเดินตาม คลอเคลีย แสนซนหน่อยๆ ร่าเริง ขี้เล่น",
+        "image": "https://www.ktc.co.th/pub/media/Article/06/ktc-Munchkin.webp"
+    },
+
+    {
+        "name": "แร็กดอลล์ (Ragdoll)",
+        "habbit": "นิสัยเรียบร้อย ขี้อ้อน ปรับตัวง่าย เข้ากับคนง่าย ชอบปีนป่าย ฉลาดเฉลียวและมีไหวพริบ",
+        "image": "https://www.ktc.co.th/pub/media/Article/06/ktc-Ragdoll.webp"
+    },
+
+    {
+        "name": "วิเชียรมาศ (Traditional Siamese)",
+        "habbit": "เป็นแมวที่เลี้ยงง่าย มีความฉลาด คล่องแคล่ว ปราดเปรียว สุภาพเรียบร้อย ขี้อ้อน และชอบอยู่กับคน",
+        "image": "https://www.ktc.co.th/pub/media/Article/06/ktc-Traditional_Siamese.webp"
+    },
+
+    {
+        "name": "สฟิงซ์ (Sphynx)",
+        "habbit": "นิสัยดี ขี้อ้อน ฉลาด ร่าเริง ติดเจ้าของ เข้ากับสัตว์เลี้ยงตัวอื่นได้ดี",
+        "image": "https://www.ktc.co.th/pub/media/Article/06/ktc-Sphynx.webp"
+    },
+
+    {
+        "name": "โคราช (Korat)",
+        "habbit": "มีนิสัยน่ารัก ฉลาด อ่อนโยน พลังเยอะ ชอบเล่น ชอบอยู่กับเจ้าของ เข้ากับแมวตัวอื่นได้ดี",
+        "image": "https://www.ktc.co.th/pub/media/Article/06/ktc-Korat.webp"
+    }
+]
